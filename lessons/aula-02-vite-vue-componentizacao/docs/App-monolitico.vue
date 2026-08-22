@@ -24,7 +24,7 @@
 <style scoped>
 .app-header {
   padding-block: 24px;
-  border-bottom: 1px solid #d9e2dc;
+  border-bottom: 1px solid #2f8b4e;
 }
 
 .app-header h1,
@@ -44,7 +44,7 @@
 
 .project-card {
   padding: 24px;
-  background: #f4f7f5;
+  background: #a1a7b4;
   border-left: 8px solid #1f8f3a;
 }
 
