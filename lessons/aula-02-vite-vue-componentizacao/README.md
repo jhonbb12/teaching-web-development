@@ -1,4 +1,4 @@
-# Aula 2 — Vite, Vue 3 e componentização
+ # Aula 2 — Vite, Vue 3 e componentização
 
 Este repositório contém a versão de referência do laboratório da segunda aula de **Desenvolvimento de Sistemas Web**. O protótipo da Aula 1 foi organizado como uma aplicação Vue 3 executada com Vite.
 

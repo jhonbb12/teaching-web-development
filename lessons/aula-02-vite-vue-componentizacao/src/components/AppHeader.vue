@@ -1,8 +1,8 @@
 <template>
   <header class="app-header">
-    <p class="eyebrow">IFMA · Projeto Integrador</p>
-    <h1>Projeto Integrador Web</h1>
-    <p>Primeiro protótipo organizado com Vue 3.</p>
+    <p class="eyebrow">IFMA · Laboratório de Vue</p>
+    <h1>Vozes da Comunidade.</h1>
+    <p>Um protótipo para transformar ideias da comunidade em projetos.</p>
   </header>
 </template>
 

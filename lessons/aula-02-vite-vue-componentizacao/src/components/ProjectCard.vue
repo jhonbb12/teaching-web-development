@@ -1,9 +1,9 @@
 <template>
   <article class="project-card">
-    <p class="label">Desafio inicial</p>
-    <h2>Problema observado</h2>
-    <p>Como tornar as informações do projeto mais claras para a comunidade?</p>
-    <button type="button">Marcar interesse</button>
+    <p class="label">Projeto em destaque</p>
+    <h2>Melhoria da praça da comunidade</h2>
+    <p>Como tornar a praça mais segura, acessível e agradável para todos?</p>
+    <button type="button">Conhecer projeto</button>
   </article>
 </template>
 

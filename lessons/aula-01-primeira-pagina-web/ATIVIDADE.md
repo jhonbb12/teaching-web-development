@@ -81,6 +81,11 @@ git log -1 --oneline
 Responda em até quatro linhas:
 
 1. Quem iniciou a requisição e quem respondeu?
+O cliente cliente iniciou pedindo os arquivos ao servidor, e o servidor entregou os arquivos. (CCS,HTML,JS)
 2. Qual é a diferença entre o arquivo HTML e o DOM observado no navegador?
+O html é o arquivo estatico salvo no disco rigido. o DOM é o conjunto de elementos criado na memoria ram do navegador que o java script consegue alterar durante a execução do arquivo.
 3. Qual evidência prova que a equipe concluiu o primeiro incremento?
+O comando git log -1 --oneline 
 4. Qual rota de execução a dupla utilizou: npm/npx ou Python?
+Py
+

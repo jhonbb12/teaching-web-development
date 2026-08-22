@@ -1,6 +1,6 @@
 <template>
   <footer class="app-footer">
-    <small>Desenvolvimento de Sistemas Web · IFMA · 2026</small>
+    <small>Jhonatas Mendes · IFMA · 2026</small>
   </footer>
 </template>
 
